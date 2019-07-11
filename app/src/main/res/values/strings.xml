@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Roots Fulfilled Services</string>
+    <string name="app_url">https://rootslocalservices.in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello World</string>
+    <string name="intro_text">Roots Fulfilled Services</string>
+</resources>
